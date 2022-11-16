@@ -1,1 +1,1 @@
-# Study-Buddy is a file that shows my knowledge of the bootstrap framework. Including but not limited to, importing fonts and icons, using buttons,positioning elemements, and advanced CSS tricks such as media query.
+# Study-Buddy This is my study buddy Project that I made using bootstrap. https://JaceRoquemore.github.io/study-buddy/
